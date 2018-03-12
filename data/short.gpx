@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2016-11-16T20:18:53.000Z</time>
+  </metadata>
+  <trk>
+    <name>RITD16 (short)</name>
+    <type>street_running</type>
+    <trkseg>
+      <trkpt lat="53.3483485691249370574951171875" lon="-6.2519752420485019683837890625">
+        <ele>9</ele>
+        <time>2016-11-16T20:18:53.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.348345048725605010986328125" lon="-6.25175454653799533843994140625">
+        <ele>8.80000019073486328125</ele>
+        <time>2016-11-16T20:18:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3483334816992282867431640625" lon="-6.25155086629092693328857421875">
+        <ele>8.3999996185302734375</ele>
+        <time>2016-11-16T20:19:03.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3483123593032360076904296875" lon="-6.25133159570395946502685546875">
+        <ele>8.80000019073486328125</ele>
+        <time>2016-11-16T20:19:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3482989482581615447998046875" lon="-6.25120536424219608306884765625">
+        <ele>9.3999996185302734375</ele>
+        <time>2016-11-16T20:19:09.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3482429571449756622314453125" lon="-6.250886432826519012451171875">
+        <ele>10.6000003814697265625</ele>
+        <time>2016-11-16T20:19:14.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.348218984901905059814453125" lon="-6.250669173896312713623046875">
+        <ele>10.80000019073486328125</ele>
+        <time>2016-11-16T20:19:18.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3482268638908863067626953125" lon="-6.25041176564991474151611328125">
+        <ele>12</ele>
+        <time>2016-11-16T20:19:22.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.3482228405773639678955078125" lon="-6.25011504627764225006103515625">
+        <ele>13.3999996185302734375</ele>
+        <time>2016-11-16T20:19:27.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="53.348222337663173675537109375" lon="-6.249855794012546539306640625">
+        <ele>14.19999980926513671875</ele>
+        <time>2016-11-16T20:19:32.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
